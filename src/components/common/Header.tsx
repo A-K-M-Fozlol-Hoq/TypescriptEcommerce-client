@@ -11,7 +11,8 @@ import { FiPhoneCall, FiShoppingBag } from "react-icons/fi";
 import { FaRegEnvelope } from "react-icons/fa";
 import { BsPhone } from "react-icons/bs";
 import { BiSearch, BiUser } from "react-icons/bi";
-import logo from "assets/images/fvaly.png";
+// import logo from "assets/images/fvaly.png";
+import logo from "assets/images/eshop.PNG";
 const Header = () => {
   return (
     <div className="header__component">
